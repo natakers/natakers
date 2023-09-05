@@ -1,5 +1,5 @@
 
-# Hi there, I'm Nataliya!
+# Hi there, I'm Nataliia!
 
 ## I'm frontend developer
 
