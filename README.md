@@ -1,7 +1,7 @@
 
 # Hi there, I'm Nataliya!
 
-#### I'm frontend developer
+## I'm frontend developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natakers&hide_rank=true&count_private=true&show_icons=true&theme=vue)
 
